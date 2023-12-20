@@ -1,12 +1,12 @@
 package constant;
 
 public class Color {
-    public static String RED = "RED";
-    public static String BLUE = "BLUE";
-    public static String YELLOW = "YELLOW";
-    public static String GREEN = "GREEN";
+    public static String RED = "ROUGE";
+    public static String BLUE = "BLEU";
+    public static String YELLOW = "JAUNE";
+    public static String GREEN = "VERT";
     public static String ORANGE = "ORANGE";
-    public static String PINK = "PINK";
-    public static String BLACK = "BLACK";
+    public static String PINK = "ROSE";
+    public static String BLACK = "NOIR";
     public static String JOKER = "JOKER";
 }
